@@ -1,5 +1,5 @@
 package entities;
-
+// Enzo Lopez
 import helpers.LibraryException;
 
 public class Ebook extends Book{
