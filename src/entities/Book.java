@@ -1,7 +1,7 @@
 package entities;
 
 import helpers.LibraryException;
-// Javier Rameri
+// Javier Rameri // Forzar conflicto
 public class Book {
 	private String isbn;
 	private String titulo;
