@@ -1,7 +1,11 @@
 package entities;
 
 import helpers.LibraryException;
+<<<<<<< HEAD
 // Forzando merge error antes de hacer un pull a la branch
+=======
+// Javier Rameri // Forzar conflicto
+>>>>>>> 24156740b3f56f199dbce45c2c247aa077f244e5
 public class Book {
 	private String isbn;
 	private String titulo;
